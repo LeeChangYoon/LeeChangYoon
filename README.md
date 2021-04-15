@@ -1,4 +1,4 @@
-# :trollface: Lee Chang Yoon
+# :clap: Lee Chang Yoon
 
 
 ## :school: Education
@@ -9,7 +9,7 @@
 ## :office: Work Experience
 
 - [City University of Hong Kong Summer Exchange Program](https://github.com/tony2037/CityU_FishCraft)
-->CityU FishCraft (2018.06 ~ 2018.09)
+CityU FishCraft (2018.06 ~ 2018.09)
 
 - [BLI_Korea (Beckman Laser Institute)](https://www.dankook.ac.kr/web/ins33)
 CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를 이용한 망막 촬영 기술)  (2018.06 ~ 2019.08)
