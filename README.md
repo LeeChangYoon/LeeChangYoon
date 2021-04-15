@@ -1,4 +1,4 @@
-# :squirrel: Lee Chang Yoon
+# :trollface: Lee Chang Yoon
 
 
 ## :school: Education
