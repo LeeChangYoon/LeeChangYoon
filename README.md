@@ -1,4 +1,4 @@
-# :clap: Lee Chang Yoon
+# :shipit: Lee Chang Yoon
 
 
 ## :mortar_board: Education
