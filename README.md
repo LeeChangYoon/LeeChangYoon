@@ -27,6 +27,20 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 - [OPIc 국제공인외국어회화시험](https://www.opic.or.kr/opics/jsp/senior/index.jsp) AL(Advanced Low) (2018. 09)
 
 
+## Goals
+
+### Short Term Goals
+- ACFT Pass
+- TOEIC, TOFEL 다시보기
+- SWAE 문제 풀어서 A형 시험 보기
+
+### Long Term Goals
+- Goverment Officer(5급, 7급) 준비
+- 복학 후 학점 관리
+- Regular Workout(ACFT Black Standard)
+- Master or PH.D Degree(?)
+
+
 ## :wrench: Technical Skills
 
 * Programming: ![Python](https://img.shields.io/badge/Python-brighgreen)![C](https://img.shields.io/badge/C-red)![C++](https://img.shields.io/badge/C++-black)![Java](https://img.shields.io/badge/Java-orange)
