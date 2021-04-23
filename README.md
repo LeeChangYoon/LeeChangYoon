@@ -1,4 +1,4 @@
-# :shipit: Lee Chang Yoon
+# :eyes: Lee Chang Yoon
 
 
 ## :mortar_board: Education
