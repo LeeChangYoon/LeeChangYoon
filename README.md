@@ -33,6 +33,7 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 - ACFT Pass
 - TOEIC, TOFEL 다시보기
 - SWAE 문제 풀어서 A형 시험 보기
+- 내가 직접 처음부터 끝까지 코딩해서 Programmers Level 3문제들 풀어보기
 
 ### Long Term Goals
 - Goverment Officer(5급, 7급) 준비
