@@ -50,8 +50,10 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 
 
 ## :book: Knowledge
+* Programming
 * Data Structure and Algorithms 
 * DataBase
 * Operating Systems
 * Computer Network
+* Little bit of A.I(?)
 
