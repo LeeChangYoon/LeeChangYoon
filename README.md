@@ -46,8 +46,8 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 * Programming: ![Python](https://img.shields.io/badge/Python-brighgreen)![C](https://img.shields.io/badge/C-red)![C++](https://img.shields.io/badge/C++-black)![Java](https://img.shields.io/badge/Java-orange)
 * Database design and planning: ![MySql](https://img.shields.io/badge/MySql-333)
 * Computer science fundamentals
-> >> DataStructure and Algorithms
-> >> DataBase System Concepts
-> >> Operating System Concepts
-> >> Network
+> 1. DataStructure and Algorithms
+> 2. DataBase System Concepts
+> 3. Operating System Concepts
+> 4. Network
 
