@@ -6,7 +6,7 @@
 - [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2018. 03 ~ 현재) 
 
 
-## :office: Work Experience
+## :office: Experience
 
 - [City University of Hong Kong Summer Exchange Program](https://github.com/tony2037/CityU_FishCraft)
 CityU FishCraft (2018.06 ~ 2018.09)
@@ -32,8 +32,7 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 ### Short Term Goals
 - ACFT Pass
 - TOEIC, TOFEL 다시보기
-- SWAE 문제 풀어서 A형 시험 보기
-- 내가 직접 처음부터 끝까지 코딩해서 Programmers Level 3문제들 풀어보기
+- PSAT 준비 + 2차 시험 준비(DS, DB, OS, PL or Network)
 
 ### Long Term Goals
 - Goverment Officer(5급, 7급) 준비
@@ -47,13 +46,8 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 * Programming: ![Python](https://img.shields.io/badge/Python-brighgreen)![C](https://img.shields.io/badge/C-red)![C++](https://img.shields.io/badge/C++-black)![Java](https://img.shields.io/badge/Java-orange)
 * Database design and planning: ![MySql](https://img.shields.io/badge/MySql-333)
 * Computer science fundamentals
-
-
-## :book: Knowledge
-* Programming
-* Data Structure and Algorithms 
-* DataBase
-* Operating Systems
-* Computer Network
-* Little bit of A.I(?)
+> * DataStructure and Algorithms
+> * DataBase System Concepts
+> * Operating System Concepts
+> * Network
 
