@@ -1,6 +1,7 @@
 # :eyes: Lee Chang Yoon
 
-<img align='up' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker0405">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=LeeChangYoon" height="165">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker0405">
 
 ## :mortar_board: Education
 
