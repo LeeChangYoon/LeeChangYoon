@@ -40,7 +40,7 @@ CW(레이저를 이용한 피부 단층 촬영 기술), OCT Viewer (레이저를
 - 공무원(5급, 7급) 준비
 - 복학 후 학점 관리
 - Regular Workout(ACFT Black Standard)
-- Master or PH.D Degree(?)
+- Master or Ph.D Degree(?)
 
 
 ## :wrench: Technical Skills
