@@ -2,8 +2,6 @@
 
 <img align='up' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker0405">
 
-![LeeChangYoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeChangYoon&show_icons=true&theme=radical)
-
 ## :mortar_board: Education
 
 - [단국대학교](https://dankook.ac.kr/)  모바일시스템공학과 (2018. 03 ~ 현재) 
