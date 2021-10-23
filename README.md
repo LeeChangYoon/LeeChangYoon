@@ -1,6 +1,6 @@
 # :eyes: Lee Chang Yoon
 
-<img align='up' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joker0405">
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joker0405)](https://solved.ac/joker0405)
 
 ## :mortar_board: Education
 
