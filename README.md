@@ -11,22 +11,27 @@
 
 - [City University of Hong Kong Summer Exchange Program](https://github.com/tony2037/CityU_FishCraft)
 > - CityU FishCraft (2018.06 ~ 2018.09)
+<br>
 
 - [BLI_Korea (Beckman Laser Institute)](https://www.dankook.ac.kr/web/ins33)
 > - CW(레이저를 이용한 피부 단층 촬영 기술) (2018.06 ~ 2019.03)
 > - OCT Viewer (레이저를 이용한 망막 촬영 기술)  (2019.04 ~ 2019.08)
+<br>
 
 - KATUSA (Korean Army Augmented To US Army)
 > - Camp Casey & Hovey (2019.08 ~ 2021.03)
 > - 2-82 FA
 > - 1-7 FA
 > - 1-41 FA
+<br>
 
 - [Code Club](https://codeclub.org/en/)
 > - 대지조등학교, 대지중학교(2018. 08 ~ 2022.03)
+<br>
 
 - [BRNO University of Technology Summer Program](https://github.com/LeeChangYoon/Cyber-Security-and-Forensics)
 > - VUT FIT Cyber Security and Forensics (2022.07.08 ~ 2022.07.28)
+<br>
 
 
 ## :page_facing_up: Certificate
