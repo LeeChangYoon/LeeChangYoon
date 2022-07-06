@@ -25,7 +25,7 @@
 - [Code Club](https://codeclub.org/en/)
 > - 대지조등학교, 대지중학교(2018. 08 ~ 2022.03)
 
-- [BRNO University of Technology Summer Program](https://github.com/LeeChangYoon/Cyber-Security-and-Forencis)
+- [BRNO University of Technology Summer Program](https://github.com/LeeChangYoon/Cyber-Security-and-Forensics)
 > - VUT FIT Cyber Security and Forensics (2022.07.08 ~ 2022.07.28)
 
 
