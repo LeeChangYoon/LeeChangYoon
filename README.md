@@ -65,5 +65,5 @@
 > 1. DataStructure and Algorithms
 > 2. DataBase System Concepts
 > 3. Operating System Concepts
-> 4. Network
+> 4. Computer Network
 
