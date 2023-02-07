@@ -40,21 +40,6 @@
 - [OPIc 국제공인외국어회화시험](https://www.opic.or.kr/opics/jsp/senior/index.jsp) AL(Advanced Low) (2018. 09)
 
 
-
-## :exclamation: Goals
-
-### Short Term Goals
-- ACFT Pass
-- TOEIC, TOFEL 다시보기
-- PSAT 준비 + 2차 시험 준비(DS, DB, OS, PL or Network)
-
-### Long Term Goals
-- 공무원(5급, 7급) 준비
-- 복학 후 학점 관리
-- Regular Workout(ACFT Black Standard)
-- Master or Ph.D Degree(?)
-
-
 ## :wrench: Technical Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangYoon&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
